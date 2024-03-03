@@ -1,0 +1,9 @@
+backend/node_modules
+backend/.env
+backend/.prettierrc.json
+fronted/.env
+fronted/node_modules
+fronted/dist
+fronted/.parcel-cache
+fronted/.prettierrc.json
+.DS_Store
